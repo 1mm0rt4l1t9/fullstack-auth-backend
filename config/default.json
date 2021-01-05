@@ -1,0 +1,5 @@
+{
+  "port": 6660,
+  "jwtSecret": "testimjwtsecret",
+  "mongoUri": "mongodb+srv://nikanikanika:478652@cluster0.gvh8d.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
